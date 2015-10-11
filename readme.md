@@ -5,6 +5,7 @@ This set of Java classes prompts the user for the name of a database that contai
 
 ##Instructions for Running the program
 Clone this repository and from the root directory run the following command:
+
 ```java -cp ".bin;../sqlite-jdbc-3.8.11.2.jar" MovieToXML```
 	
 The source files are in the /scr directory, the movie database is in the root directory.  The XML files will be generated in the root directory. 

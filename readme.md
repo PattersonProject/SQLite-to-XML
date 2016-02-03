@@ -1,7 +1,7 @@
 #Java SQLite to XML converter
 
 ## Project Description
-This set of Java classes prompts the user for the name of a database that contains information on Oscar winning movies and converts it to a set of well formed XML files which make up an XML database.  The sqlite database was built by the teaching staff of Harvard Extension CSCI E 66 Database Systems class in the spring of 2015.  It contains 5 tables - Actor, Director, Movie, Oscar and Person. The resulting XML database links the people, Oscars and movies using the id parameter of the XML tags. 
+This set of Java classes prompts the user for the name of a database that contains information on oscar winning movies and converts it to a set of well formed XML files which make up an XML database.  The sqlite database was built by the teaching staff of Harvard Extension CSCI E 66 Database Systems class in the spring of 2015.  It contains 5 tables - Actor, Director, Movie, Oscar and Person. The resulting XML database links the people, Oscars and movies using the id parameter of the XML tags. 
 
 ##Instructions for Running the program
 Clone this repository and from the root directory run the following command:
